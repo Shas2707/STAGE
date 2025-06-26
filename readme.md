@@ -5,5 +5,5 @@ Ce README détaillera les compétences acquises, les outils utilisés et les dif
 
 ## Sommaire
 
-+ 1. [Les différentes installations réalisées](#-1- Les différentes installations réalisées )
++ 1. [Les installations realisées](#Installation)
 
